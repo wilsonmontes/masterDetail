@@ -1,0 +1,15 @@
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\bin\Debug\netstandard2.0\masterDetail.deps.json
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\bin\Debug\netstandard2.0\masterDetail.dll
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\bin\Debug\netstandard2.0\masterDetail.pdb
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\obj\Debug\netstandard2.0\masterDetail.csprojResolveAssemblyReference.cache
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\obj\Debug\netstandard2.0\masterDetail.csproj.CoreCompileInputs.cache
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\obj\Debug\netstandard2.0\masterDetail.AlertasPage.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\obj\Debug\netstandard2.0\masterDetail.App.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\obj\Debug\netstandard2.0\masterDetail.ContactosPage.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\obj\Debug\netstandard2.0\masterDetail.ListadoPage.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\obj\Debug\netstandard2.0\masterDetail.MainPage.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\obj\Debug\netstandard2.0\masterDetail.MasterPage.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\obj\Debug\netstandard2.0\masterDetail.AssemblyInfoInputs.cache
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\obj\Debug\netstandard2.0\masterDetail.AssemblyInfo.cs
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\obj\Debug\netstandard2.0\masterDetail.dll
+C:\Users\DIANIZZ\source\repos\masterDetail\masterDetail\masterDetail\obj\Debug\netstandard2.0\masterDetail.pdb
